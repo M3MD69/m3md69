@@ -3,5 +3,5 @@
 - **Name:** Mohamed Sadawy
 - **Specialization:** Software Engineer/ Native Android Applications Developer
 - **Started studying almost in:** 2022,3,26 **(2 Years)**
-- **Started studying seriously in:** 8/1/2024 **(3 Months)**
+- **Started studying seriously in:** 8/1/2024 **(4 Months)**
 - **Word per second:** 50
