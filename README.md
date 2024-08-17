@@ -10,5 +10,6 @@
 - **Pause studing seriously:** 14/6/2024
 - **Continue studing seriously:** 3/8/2024
 
-## To Communicate
+## My Accounts
 - **Telegram:** [@M3MD69](https://t.me/M3MD69)
+- **MonkeyType:** [@M3MD69](https://monkeytype.com/profile/m3md69)
