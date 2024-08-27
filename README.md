@@ -6,6 +6,7 @@
 
 ## My Story
 - **Started studying almost:** 2022/3/26
+- **Pause freelance work:** 8/1/2024
 - **Started studying seriously:** 8/1/2024
 - **Pause studing seriously:** 14/6/2024
 - **Continue studing seriously:** 3/8/2024
