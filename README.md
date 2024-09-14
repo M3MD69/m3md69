@@ -15,3 +15,4 @@
 - **Telegram:** [@M3MD69](https://t.me/M3MD69)
 - **MonkeyType:** [@M3MD69](https://monkeytype.com/profile/m3md69)
 - **Github:** [@M3MD69](https://github.com/M3MD69)
+- **Satr:** [@M3MD69](https://profile.satr.codes/m3md69/public/overview)
