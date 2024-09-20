@@ -2,7 +2,7 @@
 ## Personal Details
 - **Name:** Mohamed Sadawy
 - **Specialization:** Software Engineer/ Native Android Applications Developer
-- **Word per second average:** 65
+- **Word per second average:** 71
 
 ## My Story
 - **Started studying almost:** 2022/3/26
