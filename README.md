@@ -17,4 +17,4 @@
 - **Pause studing seriously:** 14/6/2024
 - **Continue studing seriously:** 3/8/2024
 
-## [My Certificates]([https://t.me/M3MD69](https://drive.google.com/drive/folders/1dNXhzvtV1O9bAyZEn0-3BqU2pmMWixow?usp=sharing))
+## [My Certificates](https://drive.google.com/drive/folders/1dNXhzvtV1O9bAyZEn0-3BqU2pmMWixow?usp=sharing)
