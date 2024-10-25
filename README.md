@@ -36,6 +36,13 @@
 |   HackerRank    |     [@M3MD69](https://www.hackerrank.com/profile/m3md69)     |
 |    Codewars     |       [@M3MD69](https://www.codewars.com/users/M3MD69)       |
 
+## My Activities
+
+- First person to solve all the problems of Assiut Sheets in codeforces with Java on (22/04/2024)
+- More than 1,500 problems and mini projects on different concepts have been solved
+- CodeHub Ranked 43th, Java
+- LeetCode Ranked 940,041th
+
 ## My Story
 
 - **Started studying almost:** 2022/3/26
