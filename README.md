@@ -10,11 +10,24 @@
 
 ## My Accounts / Social Media
 
-- **Telegram:** [@M3MD69](https://t.me/M3MD69)
-- **MonkeyType:** [@M3MD69](https://monkeytype.com/profile/m3md69)
-- **Github:** [@M3MD69](https://github.com/M3MD69)
 - **Mobile Number:** +201555400034
 - **Email:** m3md69@outlook.com
+
+### **Telegram Accounts**
+
+|               Type               |                                 Link                                 |
+|:--------------------------------:|:--------------------------------------------------------------------:|
+|             Private              |                    [@m3md69](https://t.me/m3md69)                    |
+| Nullexia For Programming Channel |                  [@nullexia](https://t.me/nullexia)                  |
+|       Software Consulting        |        [@SoftwareConsulting](https://t.me/SoftwareConsulting)        |
+|   Staunch Brotherhood Channel    | [@StaunchBrotherhoodChannel](https://t.me/StaunchBrotherhoodChannel) |
+
+- **Telegram:** [@M3MD69](https://t.me/M3MD69)
+
+- **Youtube:** [Nullexia for Programming](https://www.youtube.com/@NULLEXIA)
+
+- **MonkeyType:** [@M3MD69](https://monkeytype.com/profile/m3md69)
+- **Github:** [@M3MD69](https://github.com/M3MD69)
 
 ### **Solving Accounts**
 
