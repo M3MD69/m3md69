@@ -15,12 +15,12 @@
 
 ### **Telegram Accounts**
 
-|               Type               |                                 Link                                 |
-|:--------------------------------:|:--------------------------------------------------------------------:|
-|             Private              |                    [@m3md69](https://t.me/m3md69)                    |
-| Nullexia For Programming Channel |                  [@nullexia](https://t.me/nullexia)                  |
-|       Software Consulting        |        [@SoftwareConsulting](https://t.me/SoftwareConsulting)        |
-|   Staunch Brotherhood Channel    | [@StaunchBrotherhoodChannel](https://t.me/StaunchBrotherhoodChannel) |
+|              Type               |                                 Link                                 |
+|:-------------------------------:|:--------------------------------------------------------------------:|
+|           **Private**           |                    [@m3md69](https://t.me/m3md69)                    |
+|  **Nullexia For Programming**   |                  [@nullexia](https://t.me/nullexia)                  |
+|     **Software Consulting**     |        [@SoftwareConsulting](https://t.me/SoftwareConsulting)        |
+| **Staunch Brotherhood Channel** | [@StaunchBrotherhoodChannel](https://t.me/StaunchBrotherhoodChannel) |
 
 - **Youtube:** [Nullexia for Programming](https://www.youtube.com/@NULLEXIA)
 - **MonkeyType:** [@M3MD69](https://monkeytype.com/profile/m3md69)
@@ -38,10 +38,10 @@
 
 ## My Activities
 
-- First person to solve all the problems of Assiut Sheets in codeforces with Java on (22/04/2024)
-- More than 1,500 problems and mini projects on different concepts have been solved
-- CodeHub Ranked 43th, Java
-- LeetCode Ranked 940,041th
+- **First person to solve all the problems of Assiut Sheets in codeforces with Java on (22/04/2024)**
+- **More than 1,500 problems and mini projects on different concepts have been solved**
+- **CodeHub Ranked 43th, Java**
+- **LeetCode Ranked 940,041th**
 
 ## My Story
 
