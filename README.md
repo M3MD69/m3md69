@@ -6,7 +6,7 @@
 
 ## للتعلم
 
-[مسار تعلم البرمجة](https://github.com/M3MD69/LearnProgrammingBasics)
+- [مسار تعلم البرمجة](https://github.com/M3MD69/LearnProgrammingBasics)
 
 ### أساسيات البداية
 
