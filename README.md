@@ -16,6 +16,7 @@
 - [Mermaid](https://github.com/M3MD69/LearnMermaid)
 - [Git and GitHub](https://github.com/M3MD69/LearnGitAndGithub)
 - [Java](https://github.com/M3MD69/LearnJava)
+- [JSON](https://github.com/M3MD69/LearnJSON)
 - [SQL](https://github.com/M3MD69/LearnSQL)
 - [Kotlin](https://github.com/M3MD69/LearnKotlin)
 - [XML](https://github.com/M3MD69/LearnXML)
