@@ -17,7 +17,7 @@
 - [Git and GitHub](https://github.com/M3MD69/LearnGitAndGithub)
 - [Java](https://github.com/M3MD69/LearnJava)
 - [JSON](https://github.com/M3MD69/LearnJSON)
-- [SQL and MySQL](https://github.com/M3MD69/LearnSQLAndMySQL)
+- [SQL](https://github.com/M3MD69/LearnSQL)
 - [Kotlin](https://github.com/M3MD69/LearnKotlin)
 - [XML](https://github.com/M3MD69/LearnXML)
 
