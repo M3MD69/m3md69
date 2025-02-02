@@ -20,9 +20,11 @@
 ### أساسيات التخصص (تطوير تطبيقات أندرويد نيتف)
 
 - Android
-    - Java & XML (Legacy Code)
-    - Kotlin & XML (Legacy Code)
-    - Kotlin (Jetpack Compose)
+    - Legacy Code
+        - Java & XML
+        - Kotlin & XML
+    - Jetpack Compose
+        - Kotlin
 - Firebase
-
+- Supabase
 </div>
