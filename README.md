@@ -2,6 +2,29 @@
 
 # السلام عليكم و رحمة الله و بركاته
 
+```kotlin
+object AboutMe {
+    const val FIRST_NAME = "Mohamed"
+    const val LAST_NAME = "Sadawy"
+    const val ROLE = "Android Apps Developer"
+
+    object Communication {
+        const val EMAIL = "m3md69@outlook.com"
+        const val TELEGRAM = "https://t.me/m3md69"
+        const val GITHUB = "https://github.com/M3MD69"
+        const val LINKEDIN = "https://www.linkedin.com/in/m3md69"
+        const val YOUTUBE = "https://www.youtube.com/@m3md69"
+        const val MOBILE_NUMBER = "+201555400034"
+    }
+
+    object ProblemSolved {
+        const val JAVA = 1730
+        const val KOTLIN = 500
+        const val SQL = 50
+    }
+}
+```
+
 ## مشاريعي التوثيقية
 
 ### أساسيات البداية
