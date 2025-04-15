@@ -7,7 +7,7 @@
 ```kotlin
 object AboutMe {
     const val FIRST_NAME = "Mohamed"
-    const val LAST_NAME = "Sadawy"
+    const val SECOND_NAME = "Sadawy"
     const val ROLE = "Android Apps Developer"
 
     object Communication {
