@@ -26,7 +26,7 @@ object AboutMe {
         }
     }
 
-    object ProblemSolved {
+    object ProblemSolvedCount {
         const val JAVA = 1736
         const val KOTLIN = 520
         const val SQL = 52
