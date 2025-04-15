@@ -27,9 +27,9 @@ object AboutMe {
     }
 
     object ProblemSolved {
-        const val JAVA = 1730
-        const val KOTLIN = 500
-        const val SQL = 50
+        const val JAVA = 1736
+        const val KOTLIN = 520
+        const val SQL = 52
     }
 }
 ```
