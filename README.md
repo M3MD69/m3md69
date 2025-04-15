@@ -2,6 +2,8 @@
 
 # السلام عليكم و رحمة الله و بركاته
 
+</div>
+
 ```kotlin
 object AboutMe {
     const val FIRST_NAME = "Mohamed"
@@ -33,6 +35,8 @@ object AboutMe {
     }
 }
 ```
+
+<div dir="rtl">
 
 ## مشاريعي التوثيقية
 
