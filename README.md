@@ -42,6 +42,8 @@ object AboutMe {
 
 ### أساسيات البداية
 
+</div>
+
 - [HTML](https://github.com/M3MD69/LearnHTML)
 - [CSS](https://github.com/M3MD69/LearnCSS)
 - [Markdown](https://github.com/M3MD69/LearnMarkdown)
@@ -53,7 +55,11 @@ object AboutMe {
 - [XML](https://github.com/M3MD69/LearnXML)
 - [Kotlin](https://github.com/M3MD69/LearnKotlin)
 
+<div dir="rtl">
+
 ### أساسيات التخصص (تطوير تطبيقات أندرويد نيتف)
+
+</div>
 
 - Android
     - Legacy Code
@@ -63,4 +69,3 @@ object AboutMe {
         - Kotlin
 - Firebase
 - Supabase
-</div>
