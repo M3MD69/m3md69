@@ -32,7 +32,7 @@ object AboutMe {
         const val JAVA = 1736
         const val KOTLIN = 520
         const val SQL = 52
-        const val HYPER_SKILL = 368
+        const val HYPER_SKILL = 386
     }
 }
 ```
@@ -45,16 +45,16 @@ object AboutMe {
 
 </div>
 
-- [HTML](https://github.com/M3MD69/LearnHTML)
-- [CSS](https://github.com/M3MD69/LearnCSS)
-- [Markdown](https://github.com/M3MD69/LearnMarkdown)
-- [Mermaid](https://github.com/M3MD69/LearnMermaid)
-- [Git and GitHub](https://github.com/M3MD69/LearnGitAndGithub)
-- [Java](https://github.com/M3MD69/LearnJava)
-- [JSON](https://github.com/M3MD69/LearnJSON)
-- [SQL](https://github.com/M3MD69/LearnSQL)
-- [XML](https://github.com/M3MD69/LearnXML)
-- [Kotlin](https://github.com/M3MD69/LearnKotlin)
+- [HTML](https://github.com/m4md24/LearnHTML)
+- [CSS](https://github.com/m4md24/LearnCSS)
+- [Markdown](https://github.com/m4md24/LearnMarkdown)
+- [Mermaid](https://github.com/m4md24/LearnMermaid)
+- [Git and GitHub](https://github.com/m4md24/LearnGitAndGithub)
+- [Java](https://github.com/m4md24/LearnJava)
+- [JSON](https://github.com/m4md24/LearnJSON)
+- [SQL](https://github.com/m4md24/LearnSQL)
+- [XML](https://github.com/m4md24/LearnXML)
+- [Kotlin](https://github.com/m4md24/LearnKotlin)
 
 <div dir="rtl">
 
