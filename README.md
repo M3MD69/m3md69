@@ -12,19 +12,19 @@ object AboutMe {
 
     object Communication {
         const val EMAIL = "m3md69@outlook.com"
-        const val TELEGRAM = "https://t.me/m3md69"
-        const val GITHUB = "https://github.com/M3MD69"
-        const val LINKEDIN = "https://www.linkedin.com/in/m3md69"
-        const val YOUTUBE = "https://www.youtube.com/@m3md69"
+        const val TELEGRAM = "https://t.me/m4md24"
+        const val GITHUB = "https://github.com/m4md24"
+        const val LINKEDIN = "https://www.linkedin.com/in/m4md24"
+        const val YOUTUBE = "https://www.youtube.com/@m4md24"
         const val MOBILE_NUMBER = "+201555400034"
 
         object ProblemSolvingAndLearning {
-            const val CODERHUB_AND_SATR = "https://profile.satr.codes/m3md69/public/overview"
-            const val LEETCODE = "https://leetcode.com/u/M3MD69"
-            const val HACKER_RANK = "https://www.hackerrank.com/profile/m3md69"
+            const val CODERHUB_AND_SATR = "https://profile.satr.codes/m4md24/public/overview"
+            const val LEETCODE = "https://leetcode.com/u/m4md24"
+            const val HACKER_RANK = "https://www.hackerrank.com/profile/m4md24"
             const val CODEFORCES = "https://codeforces.com/profile/M3MD69"
             const val HYPER_SKILL = "https://hyperskill.org/my-learning/621065640"
-            const val DISQUS = "https://disqus.com/by/M3MD69"
+            const val DISQUS = "https://disqus.com/by/m4md24"
         }
     }
 
