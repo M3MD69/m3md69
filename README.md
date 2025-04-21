@@ -11,7 +11,7 @@ object AboutMe {
     const val ROLE = "Android Apps Developer"
 
     object Communication {
-        const val EMAIL = "m3md69@outlook.com"
+        const val EMAIL = "m4md24@gmail.com"
         const val TELEGRAM = "https://t.me/m4md24"
         const val GITHUB = "https://github.com/m4md24"
         const val LINKEDIN = "https://www.linkedin.com/in/m4md24"
