@@ -81,4 +81,4 @@ object AboutMe {
 
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4md24&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)
+[//]: # (![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=m4md24&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact&#41;)
