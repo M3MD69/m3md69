@@ -73,7 +73,11 @@ object AboutMe {
 
 ---
 
+<div dir="rtl">
+
 # إحصائيات
+
+</div>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4md24&theme=android-dark&border_radius=0&locale=ar&card_width=600&card_height=200)
 
