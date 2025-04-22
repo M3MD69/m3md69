@@ -75,6 +75,6 @@ object AboutMe {
 
 # إحصائيات
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4md24&theme=android-dark&border_radius=0&locale=ar&card_width=600&card_height=200)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4md24&theme=android-dark&border_radius=0&locale=ar&card_width=600&card_height=200)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4md24&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)
