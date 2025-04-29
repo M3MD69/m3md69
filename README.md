@@ -74,6 +74,14 @@ object AboutMe {
 
 </div>
 
+- [Programming Advices Courses](https://github.com/stars/M4MD24/lists/programming-advices-courses)
+
+<div dir="rtl">
+
+### أساسيات التخصص (تطوير تطبيقات أندرويد نيتف)
+
+</div>
+
 - [HTML](https://github.com/m4md24/LearnHTML)
 - [CSS](https://github.com/m4md24/LearnCSS)
 - [Markdown](https://github.com/m4md24/LearnMarkdown)
@@ -84,13 +92,6 @@ object AboutMe {
 - [SQL](https://github.com/m4md24/LearnSQL)
 - [XML](https://github.com/m4md24/LearnXML)
 - [Kotlin](https://github.com/m4md24/LearnKotlin)
-
-<div dir="rtl">
-
-### أساسيات التخصص (تطوير تطبيقات أندرويد نيتف)
-
-</div>
-
 - Android
     - Legacy Code
         - Java & XML
